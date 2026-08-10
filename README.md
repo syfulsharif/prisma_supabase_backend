@@ -1,4 +1,4 @@
-# SCIC / EJP-13 Backend REST API
+# Prisma Supabase backend
 
 Production-ready, scalable, and modular REST API backend developed with **Express.js**, **TypeScript**, **PostgreSQL (Supabase)**, and **Prisma ORM**.
 
