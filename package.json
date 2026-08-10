@@ -5,6 +5,8 @@
     "dev": "cd backend && npm run dev",
     "build": "cd backend && npm run build",
     "start": "cd backend && npm start",
-    "prisma:seed": "cd backend && npm run prisma:seed"
+    "prisma:seed": "cd backend && npm run prisma:seed",
+    "postinstall": "cd backend && npm install",
+    "vercel-build": "cd backend && npm run vercel-build"
   }
 }
