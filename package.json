@@ -2,11 +2,11 @@
   "name": "scic-backend-root",
   "version": "1.0.0",
   "scripts": {
-    "dev": "cd backend && npm run dev",
-    "build": "cd backend && npm run build",
-    "start": "cd backend && npm start",
-    "prisma:seed": "cd backend && npm run prisma:seed",
-    "postinstall": "cd backend && npm install",
-    "vercel-build": "cd backend && npm run vercel-build"
+    "dev": "cd server && npm run dev",
+    "build": "cd server && npm run build",
+    "start": "cd server && npm start",
+    "prisma:seed": "cd server && npm run prisma:seed",
+    "postinstall": "cd server && npm install",
+    "vercel-build": "cd server && npm run vercel-build"
   }
 }
