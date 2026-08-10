@@ -1,4 +1,4 @@
-# SCIC REST API Documentation
+# EJP-13 Backend REST API Documentation
 
 This REST API is built with Express.js, TypeScript, PostgreSQL (Supabase), and Prisma ORM.
 
