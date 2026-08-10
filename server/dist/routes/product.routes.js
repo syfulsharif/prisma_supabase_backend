@@ -11,9 +11,9 @@ router.get('/', async (req, res, next) => {
     try {
         const { categoryId, status, search } = req.query;
         const products = await product_service_1.ProductService.getAllProducts({
-            categoryId: categoryId,
-            status: status,
-            search: search,
+            categoryId: (categoryId && categoryId !== 'undefined') ? categoryId : undefined,
+            status: (status && status !== 'undefined') ? status : undefined,
+            search: (search && search !== 'undefined') ? search : undefined,
         });
         (0, response_1.sendResponse)(res, { statusCode: 200, success: true, message: 'Products retrieved successfully', data: products });
     }
