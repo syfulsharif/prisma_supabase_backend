@@ -1,4 +1,4 @@
-# EJP-13 Backend REST API Documentation
+# Prisma Supabase Backend API Documentation
 
 This REST API is built with Express.js, TypeScript, PostgreSQL (Supabase), and Prisma ORM.
 
