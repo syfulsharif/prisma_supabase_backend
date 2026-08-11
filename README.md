@@ -13,6 +13,17 @@ Production-ready, scalable, and modular REST API backend developed with **Expres
 
 ---
 
+## 🔑 Test Credentials
+
+Visitors can use the following credentials to test the front end:
+
+| Role | Email | Password |
+| :--- | :--- | :--- |
+| **Admin** | `admin@scic.com` | `AdminPass123!` |
+| **User** | `john@example.com` | `UserPass123!` |
+
+---
+
 ## 🌟 Tech Stack & Features
 
 * **Framework:** Express.js + TypeScript
