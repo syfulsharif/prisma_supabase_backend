@@ -7,6 +7,7 @@ Production-ready, scalable, and modular REST API backend developed with **Expres
 ## 🔗 Live Deployment & Documentation
 
 * **Live API URL:** [https://prisma-supabase-backend.vercel.app/](https://prisma-supabase-backend.vercel.app/)
+* **Live FrontEnd URL:** [https://prisma-supabase-client.vercel.app](https://prisma-supabase-client.vercel.app)
 * **API Documentation:** [`server/API_DOCUMENTATION.md`](./server/API_DOCUMENTATION.md)
 * **GitHub Repository:** [syfulsharif/prisma_supabase_backend](https://github.com/syfulsharif/prisma_supabase_backend)
 
